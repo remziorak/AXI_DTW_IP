@@ -11,7 +11,7 @@ Example RTL schematic given as following.
 
 ![image](https://user-images.githubusercontent.com/45906647/88442272-8ab8e280-ce1c-11ea-9f95-ed9261800a4b.png)
 
-The IO ports shown in RTL schematic mapped on 6 register. This registers are read and written by processor through AXI Interconnect. Register mapping shown in below table.
+The IO ports shown in RTL schematic mapped on 6 register. This registers can be read and written by processor through AXI Interconnect. Register mapping shown in below table.
 
 | Register | Port Name     | Description                                                  |
 | -------- | ------------- | ------------------------------------------------------------ |
